@@ -1,0 +1,28 @@
+# VBA and Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlam
+*.vbw
+*.frx
+
+# Temporary Excel files
+~$*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Git files (except .gitignore)
+!.gitignore
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.tmp
