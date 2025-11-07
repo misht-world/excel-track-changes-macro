@@ -46,3 +46,7 @@
 **Colors not updating?**
 - Manual formatting overrides macro colors
 - Clear manual formatting if needed
+
+---
+
+**Russian version: [installation_ru.md](installation_ru.md)**
