@@ -15,14 +15,16 @@ A sophisticated VBA macro that visually tracks changes in Excel workbooks by col
 
 1. Open Excel and press `Alt + F11` to open VBA Editor
 2. Double-click `ThisWorkbook` in Project Explorer
-3. Replace all code with content from `TrackChangesMacro.vba`
+3. Replace all code with content from [`TrackChangesMacro.vba`](TrackChangesMacro.vba)
 4. Save as `.xlsm` file (Excel Macro-Enabled Workbook)
+
+**📖 Full Installation Guide:** [English](docs/installation.md) | [Russian](docs/installation_ru.md)
 
 ## 📁 Files
 
-- `TrackChangesMacro.vba` - Main macro code
-- `docs/installation.md` - Detailed installation guide
-- `docs/installation_ru.md` - Russian installation guide
+- [`TrackChangesMacro.vba`](TrackChangesMacro.vba) - Main macro code
+- [`docs/installation.md`](docs/installation.md) - Detailed installation guide (English)
+- [`docs/installation_ru.md`](docs/installation_ru.md) - Russian installation guide
 
 ## ⚠️ Usage Notes
 
@@ -36,6 +38,17 @@ A sophisticated VBA macro that visually tracks changes in Excel workbooks by col
 - Excel 2010 and later
 - Windows OS
 - .xlsm files only
+
+## 📄 License & Disclaimer
+
+This macro is provided as-is for educational and personal use purposes. 
+
+**⚠️ Disclaimer:** The author is not responsible for any data loss, corruption, or other issues that may arise from using this macro. Users should:
+
+- Always backup important files before using macros
+- Test the macro on non-critical data first
+- Understand the code before implementation
+- Use at your own risk
 
 ## 📞 Support
 

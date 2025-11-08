@@ -23,7 +23,7 @@
 1. Open VBA Editor (`Alt + F11`)
 2. Right-click `ThisWorkbook` → Insert → Module
 3. Copy-paste the code
-4. Save and close
+4. Save and clos
 
 ## Testing the Macro
 
@@ -46,6 +46,12 @@
 **Colors not updating?**
 - Manual formatting overrides macro colors
 - Clear manual formatting if needed
+
+## 📄 License & Disclaimer
+
+This macro is provided as-is for educational and personal use purposes. The author is not responsible for any data loss, corruption, or other issues that may arise from using this macro. Always backup your files and test on non-critical data first.
+
+**Use at your own risk.**
 
 ---
 
