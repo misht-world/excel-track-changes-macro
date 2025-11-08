@@ -28,7 +28,7 @@
 ## Testing the Macro
 
 1. Open the saved `.xlsm` file
-2. Modify any cell value - it should turn blue
+2. Modify any cell value (not use Ctrl+Z) - it should turn blue
 3. Change it back to original - it should turn black
 4. Test with formulas and across different sheets
 
@@ -46,6 +46,13 @@
 **Colors not updating?**
 - Manual formatting overrides macro colors
 - Clear manual formatting if needed
+
+## ⚠️ Important Usage Notes
+
+- **Undo Function Disabled**: Ctrl+Z (undo) does not work while the macro is active
+- **Recommended Workflow**: Make changes → Save file regularly
+- **Structural Changes Risk**: Inserting/deleting rows/columns may cause file freezing
+- **Safe Practice**: Perform structural changes without macro active
 
 ## 📄 License & Disclaimer
 

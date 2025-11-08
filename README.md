@@ -26,12 +26,11 @@ A sophisticated VBA macro that visually tracks changes in Excel workbooks by col
 - [`docs/installation.md`](docs/installation.md) - Detailed installation guide (English)
 - [`docs/installation_ru.md`](docs/installation_ru.md) - Russian installation guide
 
-## ⚠️ Usage Notes
+##⚠️ Important Notes
 
-- **Undo Limitations**: Ctrl+Z doesn't affect macro coloring
-- **Structural Changes**: Insert/delete rows/columns outside the macro first
-- **Performance**: Optimized for medium-sized workbooks
-- **Persistence**: Changes are tracked until file is closed and reopened
+- **Undo Function Disabled**: Ctrl+Z (undo) does not work while the macro is active. Workflow: make changes → save file.
+- **Structural Changes Risk**: Inserting/deleting rows/columns while macro is running may cause file freezing/hanging. Perform structural changes without macro active.
+- **Persistence**: Changes are tracked until file is closed and reopened.
 
 ## 🔧 Compatibility
 
