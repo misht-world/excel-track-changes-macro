@@ -26,7 +26,7 @@ A sophisticated VBA macro that visually tracks changes in Excel workbooks by col
 - [`docs/installation.md`](docs/installation.md) - Detailed installation guide (English)
 - [`docs/installation_ru.md`](docs/installation_ru.md) - Russian installation guide
 
-##⚠️ Important Notes
+## ⚠️ Important Notes
 
 - **Undo Function Disabled**: Ctrl+Z (undo) does not work while the macro is active. Workflow: make changes → save file.
 - **Structural Changes Risk**: Inserting/deleting rows/columns while macro is running may cause file freezing/hanging. Perform structural changes without macro active.
@@ -37,6 +37,21 @@ A sophisticated VBA macro that visually tracks changes in Excel workbooks by col
 - Excel 2010 and later
 - Windows OS
 - .xlsm files only
+
+## ☕ Support the Project
+
+If this macro has been helpful and you'd like to support its development:
+
+**Cryptocurrency:**
+- **Bitcoin:** `bc1qy5la5xsswx2hnukf76x5g2spjpvf6n7ak56rnu`
+- **Ethereum:** `0x75F27F55Fa87d13C267c304E7e3a0afeB0f660a9`
+
+**Traditional:**
+- **PayPal:** [https://www.paypal.com/paypalme/MikhailZhi](https://www.paypal.com/paypalme/MikhailZhi)
+
+*IBAN (EU) - Coming soon*
+
+Thank you for your support! ❤️
 
 ## 📄 License & Disclaimer
 
